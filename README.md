@@ -1,0 +1,2 @@
+# For-intelegent-practice
+This repository created for studying
